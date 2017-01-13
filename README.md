@@ -1,23 +1,27 @@
-Purpose, principles and methods
-=
+# The Hacking Business Model
 
-Purpose
-==
+I came across this several years ago and this made an impression on me at the
+time. I mentioned it to a friend, but could only find it on web.archive.org. So
+I decided to replicate it here so others can discover and share it in the future!
+
+## Purpose, principles and methods
+
+### Purpose
 
 * Create a sustainable business model that can be adopted and adapted by others.
 * Create a fair and democratic company that is owned by the workers.
 * Have long-term, trustworthy and meaningful relationships with our staff and customers.
 
-Principles
-==
+### Principles
+
 * Egalitarian: The belief that all people should be treated equally. This includes equality, non-discrimination and inclusivity.
 * Sustainable: We have a long-term view on our business. We watch our profits & spend wisely, we take care of each other, we support the things we depend on.
 * Transparent: We communicate in an honest and genuine way. Any information or process that can be made open, will be made open.
 * Fun: Create a workplace where people can have fun and want to work.
 * Agile: Be flexible, receptive & adaptive, especially when dealing with staff and customers.
 
-Methods
-==
+### Methods
+
 Concrete tools for helping us live according to our principles, including:
 
 * Consensus-based decision making.
@@ -28,8 +32,8 @@ Concrete tools for helping us live according to our principles, including:
 * Prefer to work with people who share our values.
 * Work against patents and other legislation that harms individual rights.
 
-Default Employee Rules
-=
+## Default Employee Rules
+
 Some employee roles may have different requirements — for example, someone working on customer support may need to have regular hours. Of course, any differences need to be noted explicitly in the employee's contract in a section that clearly details any differences from the standard agreement.
 
 * The Employee works in distributed company and may work from anywhere.
@@ -58,8 +62,8 @@ Some employee roles may have different requirements — for example, someone wor
 * People that are not working up to expectations will receive a warning. If the situation is not corrected within one month, they will be moved to 'on-trial' status. After 3 months, the Company and the employee will revisit the employee's performance and will decide whether further employment is in their best interests.
 * When an employee is leaving they can buy out any Company equipment bought under the hardware allowance. The price is min(market-price, 'initial-price' * max(5 - years_old,0)/5) (i.e., the price of the equipment is reduced by 1/5 each year).
 
-The Rules of the Company
-=
+## The Rules of the Company
+
 * The Company is primarily created to generate bonuses for the employees (not to get sold).
 * The Company should make it as fun as possible to work for the Company.
 * The Company will be a distributed entity and strive to be small and efficient. If growing too big, it will split into separate business units or companies.
@@ -82,8 +86,8 @@ The Rules of the Company
 * The Company will respect the privacy of the employees. It will not read, without explicit permission from either the author or the receivers, any employee emails that are not sent to an email list and it will not read any logs from any private (query) IRC sessions.
 * All software produced by the company will be open/free source (with the exception of classified customer projects). At equal profit, the Company will prefer to do open/free software projects.
 
-Bonus
-=
+## Bonus
+
 At end of year the profit will be distributed as follows:
 
 * 45% will be saved for expansion
@@ -104,8 +108,8 @@ At end of year the Company will distribute 100,000 'semi-shares' to its employee
 
 At end of the year the Company should strive to pay off (part of) its investors if it doesn't expect to need the money within a 2-year time frame.
 
-Decision-making processes
-=
+## Decision-making processes
+
 *(Note that these are only guidelines and may be changed. However the changes MUST follow the spirit of the original guidelines).*
 
 The Company is led by a CEO. Their actions are governed by:
@@ -126,14 +130,14 @@ The Company will be led in an open and democratic fashion:
   * If requested, the decision makers need to clearly define the basis for a decision and provide means for proving/disproving that the decision is in the Company's best interests. If a decision is proved wrong, it needs to be reverted and the decision makers need to analyze why it went wrong and take steps to ensure that it won't happen again.
 * The Company should learn from its mistakes and its successes. It should strive to repeat its successes and avoid its mistakes in the future.
 
-Difficult decisions / Changing the rules
-=
+## Difficult decisions / Changing the rules
+
 The rules of the Company can only be changed if at least 75% of the Company employees are not opposed to the changes.
 
 The owners of 51% of the voting shares in the Company (initially only the founders) have the definite power to say 'NO' to any made decision that doesn't have 75% of the employees behind it. They can also propose new decisions that will be be taken if 51% of the employees stand behind it. This rule can only be changed with 85% of the voting shares.
 
-Terms of use / How to use
-=
+## Terms of use / How to use
+
 This document is in [Creative Commons Attribution-Share Alike 3.0](https://web.archive.org/web/20131110233551/http://creativecommons.org/licenses/by-sa/3.0). Feel free to share and modify it.
 
 These rules are not written to be in accord with any given law nor are they supposed to be valid in any given country. The idea is that each employee will get an employment contract that is tweaked according to the laws in their jurisdiction to provide them benefits and responsibilities as close to this document as legally possible.
@@ -142,14 +146,14 @@ Other companies using these rules should refer to these as the base rules, and t
 
 If your company subscribes to these rules, please add a link to this web page! If your company has some different or additional rules, please keep them on your own page and refer to this page for the default rules.
 
-Credits
-=
+## Credits
+
 Created by Zak Greant and Michael Widenius. It was first published by [Zack Greant](https://web.archive.org/web/20131110233551/http://zak.greant.com/hacking-business-models) on his blog. (The link appears to be dead now, leaving it here for posterity.)
 
 Some of the entries were inspired by [The Tao of Linden](https://web.archive.org/web/20131110233551/http://lindenlab.com/careers/culture).
 
-Translations
-=
+## Translations
+
 Here are some user-contributed translations of the Hacking Business Model into other languages.
 
 * [Spanish](https://web.archive.org/web/20131110233551/http://www.metaverso.es/thbm)
