@@ -138,7 +138,7 @@ The owners of 51% of the voting shares in the Company (initially only the founde
 
 ## Terms of use / How to use
 
-This document is in [Creative Commons Attribution-Share Alike 3.0](https://web.archive.org/web/20131110233551/http://creativecommons.org/licenses/by-sa/3.0). Feel free to share and modify it.
+This document is in [Creative Commons Attribution-Share Alike 3.0](http://creativecommons.org/licenses/by-sa/3.0). Feel free to share and modify it.
 
 These rules are not written to be in accord with any given law nor are they supposed to be valid in any given country. The idea is that each employee will get an employment contract that is tweaked according to the laws in their jurisdiction to provide them benefits and responsibilities as close to this document as legally possible.
 
@@ -148,12 +148,10 @@ If your company subscribes to these rules, please add a link to this web page! I
 
 ## Credits
 
-Created by Zak Greant and Michael Widenius. It was first published by [Zack Greant](https://web.archive.org/web/20131110233551/http://zak.greant.com/hacking-business-models) on his blog. (The link appears to be dead now, leaving it here for posterity.)
+Created by Zak Greant and Michael Widenius. It was first published by [Zack Greant](http://zak.greant.com/hacking-business-models) on his blog. (The link appears to be dead now, leaving it here for posterity.)
 
-Some of the entries were inspired by [The Tao of Linden](https://web.archive.org/web/20131110233551/http://lindenlab.com/careers/culture).
+Some of the entries were inspired by [The Tao of Linden](http://lindenlab.com/careers/culture).
 
 ## Translations
 
-Here are some user-contributed translations of the Hacking Business Model into other languages.
-
-* [Spanish](https://web.archive.org/web/20131110233551/http://www.metaverso.es/thbm)
+Feel free to contribute!
